@@ -1,0 +1,27 @@
+.venv/
+.private/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+.ruff_cache/
+.mypy_cache/
+
+# Keep local or potentially sensitive signal data out of the software repository.
+local_data/
+artifacts/
+examples/data/raw/
+examples/data/processed/
+*.npy
+*.npz
+*.csv
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
