@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0.dev0
+## 0.1.0
 
 - Initial library implementation.
 - Added single-signal and batch FDSM transforms.
