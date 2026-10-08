@@ -1,8 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite this software release."
+message: "If you use this software, please cite the article below and the software release."
 type: software
 title: "FDSM: Fractional Derivative Spectrum Maps for One-Dimensional Signals"
 version: 0.1.0
+doi: "10.5281/zenodo.23038920"
 license: MIT
 repository-code: "https://github.com/orxp/fdsm-map"
 authors:
@@ -15,3 +16,20 @@ keywords:
   - one-dimensional signal
   - spectrum map
   - signal processing
+preferred-citation:
+  type: article
+  title: "Fractional derivative spectrum maps for robust forensic classification of GC–MS total ion chromatograms and FT-IR spectra"
+  authors:
+    - family-names: Park
+      given-names: Chihyun
+    - family-names: Kim
+      given-names: Kyoung-Min
+    - family-names: Park
+      given-names: Wooyong
+    - family-names: Lee
+      given-names: Dong-kye
+    - family-names: Jung
+      given-names: Jinmi
+  journal: "Forensic Chemistry"
+  year: 2026
+  doi: "10.1016/j.forc.2026.100783"
