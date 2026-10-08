@@ -135,8 +135,18 @@ sampled one-dimensional signals and downstream tasks.
 ## Citation and license
 
 FDSM is provided under the [MIT License](LICENSE), with copyright held by the
-National Forensic Service. Software citation metadata is provided in
-`CITATION.cff`. A related research paper can be added there as a preferred
-citation when its bibliographic record becomes available.
+National Forensic Service. Citation metadata, including the preferred research
+article citation, is provided in [CITATION.cff](CITATION.cff).
+
+If you use FDSM, please cite the research article and the software release:
+
+- C. Park, K.-M. Kim, W. Park, D.-k. Lee, and J. Jung,
+  "Fractional derivative spectrum maps for robust forensic classification of
+  GC–MS total ion chromatograms and FT-IR spectra,"
+  *Forensic Chemistry* (2026), 100783.
+  [Article DOI: 10.1016/j.forc.2026.100783](https://doi.org/10.1016/j.forc.2026.100783).
+- FDSM software, version 0.1.0.
+  [Software DOI: 10.5281/zenodo.23038920](https://doi.org/10.5281/zenodo.23038920).
+
 Public example datasets remain subject to their source terms and are not
 relicensed by this repository.
